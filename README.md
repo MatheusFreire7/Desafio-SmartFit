@@ -41,3 +41,10 @@ Para executar a aplicação em seu ambiente local, siga os passos abaixo:
      ```
 ## Licença 📝
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+## GitHub Pages
+
+Você pode acessar o Projeto do Desafio SmartFit com Angular pelo o GitHub Pages:
+
+- [Acesse o Projeto Aqui](https://matheusfreire7.github.io/Desafio-SmartFit/)
+  
